@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red; /* Fundo vermelho */
+    color: white; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte do texto */
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em; /* Tamanho da fonte */
+}
